@@ -3,4 +3,5 @@ void main()
 {
 printf("\nHello world");
 printf("\nAmara");
+ return 0;
 }
