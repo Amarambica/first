@@ -2,4 +2,5 @@
 void main()
 {
 printf("\nHello world");
+printf("\nAmara");
 }
